@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+
+cd backend && python3 manage.py runserver&
+cd backend && python3 bot.py&
+cd frontend && npm start
