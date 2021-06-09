@@ -1,6 +1,6 @@
 # Discord Bot
 
-Utilized OAuth2 to create Custom Command Panel for each guild a user is part of.
+Utilized OAuth 2.0 to create Custom Command Panel for each guild a user is part of.
 
 To start: 
 - install dependencies with `npm` for the React frontend and use `pip` for Django backend
